@@ -23,9 +23,10 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-pim^_iv8dwxy0@l!@24z9mylxr*e7h$k8=sgqnym%eg-qar6a5'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False  # Set to False for production
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['job-analysis.onrender.com']  # Replace with your Render app URL
+
 
 
 # Application definition
