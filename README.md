@@ -21,7 +21,7 @@ If you’d like to explore this project yourself, follow these steps:
 1. **Clone the repo**:
 
     ```bash
-    git clone https://github.com/your-username/job-analysis-project.git
+    git clone https://github.com/AbhiramiTS/job_analysis_App.git
     cd job-analysis-project
     ```
 
